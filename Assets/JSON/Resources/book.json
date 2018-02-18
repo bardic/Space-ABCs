@@ -1,0 +1,375 @@
+{
+		"pages":[
+			{
+				"letter":"a",
+				"name":"Aurora",
+				"image":"aurora",
+				"description": "A natural electrical phenomenon characterized by the appearance of streamers of reddish or greenish light in the sky, usually near the northern or southern magnetic pole.",
+				"phonetic": "/uh-rawr-uh/"
+			},
+			{
+				"letter":"a",
+				"name":"Andromeda",
+				"image":"andromeda",
+				"description": "The Andromeda Galaxy is a spiral galaxy approximately 2.5 million light-years from Earth.",
+				"phonetic": "/an-drom-i-duh/"
+			},
+			{
+				"letter":"a",
+				"name":"Antenna",
+				"image":"antenna",
+				"description": "An antenna is a metallic structure that captures and/or transmits radio electromagnetic waves. ",
+				"phonetic": "/an-ten-uh/"
+			},
+			{
+				"letter":"b",
+				"name":"Binary Star",
+				"image":"binarystar",
+				"description": "A system of two stars in which one star revolves around the other or both revolve around a common center.",
+				"phonetic": "/bahy-nuh-ree/ /stahr/"
+			},
+			{
+				"letter":"b",
+				"name":"Black Hole",
+				"image":"blackhole",
+				"description": "A region of space having a gravitational field so intense that no matter or radiation can escape.",
+				"phonetic": "/blak/ /hohl/"
+			},
+			{
+				"letter":"b",
+				"name":"Big Bang",
+				"image":"big_bang",
+				"description": "A theory that deduces a cataclysmic birth of the universe.",
+				"phonetic": "/big bang/"
+			},
+			{
+				"letter":"c",
+				"name":"Comet",
+				"image":"comet",
+				"description": "A celestial object consisting of a nucleus of ice and dust and, when near the sun, a “tail” of gas and dust particles pointing away from the sun.",
+				"phonetic": "/kom-it/"
+			},
+			{
+				"letter":"c",
+				"name":"Crater",
+				"image":"crater",
+				"description": "A large, bowl-shaped cavity in the ground or on the surface of a planet or the moon, typically one caused by an explosion or the impact of a meteorite or other celestial body.",
+				"phonetic": "/krey-ter/"
+			},
+			{
+				"letter":"c",
+				"name":"Canadarm",
+				"image":"canadarm",
+				"description": "Is a series of robotic arms that were used on the Space Shuttle orbiters to deploy, maneuver and capture payloads.",
+				"phonetic": "/can-a-darm/"
+			},
+			{
+				"letter":"d",
+				"name":"Dwarf Galaxy",
+				"image":"dwarfgalaxy",
+				"description": "A dwarf galaxy is a small galaxy composed of about 100 million up to several billion stars.",
+				"phonetic": "/dwawrf/ /gal-uh k-see/"
+			},
+			{
+				"letter":"d",
+				"name":"Dark Matter",
+				"image":"dark_matter",
+				"description": "Nonluminous material that is postulated to exist in space and that could take any of several forms including weakly interacting particles or high-energy randomly moving particles created soon after the Big Bang",
+				"phonetic": "/dahrk/ /mat-er/"
+			},
+			{
+				"letter":"e",
+				"name":"Earth",
+				"image":"earth",
+				"description": "The planet on which we live; the world.",
+				"phonetic": "/urth/"
+			},
+			{
+				"letter":"e",
+				"name":"Eagle Nebula",
+				"image":"eagle_nebula",
+				"description": "Is a young open cluster of stars in the constellation Serpens",
+				"phonetic": "/ee-guh l/ /neb-yuh-luh/"
+			},
+			{
+				"letter":"e",
+				"name":"Eclipse",
+				"image":"solar_eclipse",
+				"description": "The obscuration of the light of the moon by the intervention of the earth between it and the sun (lunar eclipse) or the sun by the intervention of the moon between it and a point on the earth (solar eclipse)",
+				"phonetic": "/ih-klips/"
+			},
+			{
+				"letter":"f",
+				"name":"Flare",
+				"image":"flare",
+				"description": "A brief eruption of intense high-energy radiation from the sun's surface.",
+				"phonetic": "/flair/"
+			},
+			{
+				"letter":"g",
+				"name":"Galaxy",
+				"image":"galaxy",
+				"description": "A system of millions or billions of stars, together with gas and dust, held together by gravitational attraction.",
+				"phonetic": "/gal-uh k-see/"
+			},
+			{
+				"letter":"g",
+				"name":"Galileo",
+				"image":"gailio",
+				"description": "A U.S. space probe designed to take photographs and obtain other scientific information while orbiting the planet Jupiter.",
+				"phonetic": "/gal-uh-ley-oh,/"
+			},
+			{
+				"letter":"g",
+				"name":"Gamma Ray Burst",
+				"image":"gamma_ray_burst",
+				"description": "An intense but short-lived burst of gamma rays from an unknown celestial source",
+				"phonetic": "/gam-uh/ /rey/ /burst/"
+			},
+			{
+				"letter":"h",
+				"name":"Hubble",
+				"image":"hubble",
+				"description": "A space telescope placed in orbit 1990, named for U.S. astronomer Edwin P. Hubble.",
+				"phonetic": "/huhb-uh l/"
+			},
+			{
+				"letter":"h",
+				"name":"Horsehead Nebula",
+				"image":"horsehead_nebula",
+				"description": "Is a dark nebula in the constellation Orion.",
+				"phonetic": "/hawrs-hed/ //neb-yuh-luh//"
+			},
+			{
+				"letter":"i",
+				"name":"Io",
+				"image":"io",
+				"description": "It is the innermost moon of Jupiter",
+				"phonetic": "/ee-oh/"
+			},
+			{
+				"letter":"i",
+				"name":"ISS",
+				"image":"iss",
+				"description": "The International Space Station is a large spacecraft. It orbits around Earth. It is a home where astronauts live. The space station is also a science lab. Many countries worked together to build it.",
+				"phonetic": "/I S S/"
+			},
+			{
+				"letter":"j",
+				"name":"Jet",
+				"image":"jet",
+				"description": "A phenomenon often seen in astronomy, where streams of matter are emitted along the axis of rotation of a compact object.",
+				"phonetic": "/jet/"
+			},
+			{
+				"letter":"j",
+				"name":"Jupiter",
+				"image":"jupiter",
+				"description": "The planet fifth in order from the sun",
+				"phonetic": "/joo-pi-ter/"
+			},
+			{
+				"letter":"k",
+				"name":"Kuiper Belt",
+				"image":"kuiperbelt",
+				"description": "A region of the solar system beyond the orbit of Neptune, believed to contain many comets, asteroids, and other small bodies made largely of ice.",
+				"phonetic": "/kahy-per/ /belt/"
+			},
+			{
+				"letter":"k",
+				"name":"Keck Telescopes",
+				"image":"kecktelescopes",
+				"description": "Is a two-telescope astronomical observatory near the summit of Mauna Kea in Hawaii, being the two most scientifically productive telescopes on Earth.",
+				"phonetic": "/kek/ /tel-uh-skohp/"
+			},
+			{
+				"letter":"l",
+				"name":"Local Group",
+				"image":"localgroup",
+				"description": "The group of galaxies, at least 25 of which are known, that includes the Milky Way.",
+				"phonetic": "/loh-kuh l/ /groop/"
+			},
+			{
+				"letter":"m",
+				"name":"Mars",
+				"image":"mars",
+				"description": "The planet fourth in order from the sun",
+				"phonetic": "/mahrz/"
+			},
+			{
+				"letter":"m",
+				"name":"Mercury",
+				"image":"mercury",
+				"description": "The planet nearest the sun",
+				"phonetic": "/mur-kyuh-ree/"
+			},
+			{
+				"letter":"m",
+				"name":"Moon",
+				"image":"moon",
+				"description": "The earth's natural satellite, orbiting the earth at a mean distance of 384,393 km",
+				"phonetic": "/moon/"
+			},
+			{
+				"letter":"n",
+				"name":"Neptune",
+				"image":"neptune",
+				"description": "The planet eighth in order from the sun",
+				"phonetic": "/nep-toon/"
+			},
+			{
+				"letter":"n",
+				"name":"Neutron Star",
+				"image":"neutron_star",
+				"description": "An extremely dense, compact star composed primarily of neutrons, especially the collapsed core of a supernova.",
+				"phonetic": "/noo-tron/ /stahr/"
+			},
+			{
+				"letter":"o",
+				"name":"Orion",
+				"image":"orion",
+				"description": "The Hunter, a constellation lying on the celestial equator between Canis Major and Taurus, containing the bright stars Betelgeuse and Rigel.",
+				"phonetic": "/uh-rahy-uh n/"
+			},
+			{
+				"letter":"o",
+				"name":"Oort Cloud",
+				"image":"oort",
+				"description": "A region of the solar system far beyond the orbit of the dwarf planet Pluto in which billions of comets move in nearly circular orbits unless one is pulled into a highly eccentric elliptical orbit by a passing star.",
+				"phonetic": "/ohrt/ /kloud/"
+			},
+			{
+				"letter":"p",
+				"name":"Pluto",
+				"image":"pluto",
+				"description": "Until 2006, Pluto was classified as a planet ninth in order from the sun; the International Astronomical Union has reclassified it as a dwarf planet.",
+				"phonetic": "/ploo-toh/"
+			},
+			{
+				"letter":"p",
+				"name":"Pulsar",
+				"image":"pulsar",
+				"description": "One of several hundred known celestial objects, generally believed to be rapidly rotating neutron stars, that emit pulses of radiation, with a high degree of regularity.",
+				"phonetic": "/puhl-sahr/"
+			},
+			{
+				"letter":"q",
+				"name":"Quasar",
+				"image":"quasar",
+				"description": "Starlike in appearance and having spectra with characteristically large redshifts, that are thought to be the most distant and most luminous objects in the universe.",
+				"phonetic": "/kwey-zahr/"
+			},
+			{
+				"letter":"r",
+				"name":"Ring Nebula",
+				"image":"ringnebula",
+				"description": "The Ring Nebula is a planetary nebula in the northern constellation of Lyra.",
+				"phonetic": "/ring/ /neb-yuh-luh/"
+			},
+			{
+				"letter":"r",
+				"name":"Red Dwarf",
+				"image":"reddwarf",
+				"description": "A faint reddish stars having diameters about half that of the sun and low surface temperatures, about 2000–3000 K",
+				"phonetic": "/red/ /dwawrf/"
+			},
+			{
+				"letter":"r",
+				"name":"Rover",
+				"image":"rover",
+				"description": "Is a space exploration vehicle designed to move across the surface of a planet or other celestial body.",
+				"phonetic": "/roh-ver/"
+			},
+			{
+				"letter":"s",
+				"name":"Saturn",
+				"image":"saturn",
+				"description": "The planet sixth in order from the sun,",
+				"phonetic": "/sat-ern/"
+			},
+			{
+				"letter":"s",
+				"name":"Sputnik I",
+				"image":"sputnik",
+				"description": "The world's first space satellite put in orbit by the Russians",
+				"phonetic": "/spoo t-nik/ /wuhn/"
+			},
+			{
+				"letter":"s",
+				"name":"Space Suit",
+				"image":"spacesuit",
+				"description": "A sealed and pressurized suit designed to allow the wearer to leave a pressurized cabin in outer space or at extremely high altitudes within the atmosphere.",
+				"phonetic": "/speys/ /soot/"
+			},
+			{
+				"letter":"t",
+				"name":"Triton",
+				"image":"triton",
+				"description": "A moon of Neptune.",
+				"phonetic": "/trahyt-n/"
+			},
+			{
+				"letter":"t",
+				"name":"Titan",
+				"image":"titan",
+				"description": "Is the largest moon of Saturn",
+				"phonetic": "/tahyt-n/"
+			},
+			{
+				"letter":"u",
+				"name":"Uranus",
+				"image":"uranus",
+				"description": "The planet seventh in order from the sun",
+				"phonetic": "/yoo r-uh-nuh s/"
+			},
+			{
+				"letter":"u",
+				"name":"Universe",
+				"image":"universe",
+				"description": "The totality of known or supposed objects and phenomena throughout space; the cosmos; macrocosm.",
+				"phonetic": "/yoo-nuh-vurs/"
+			},
+			{
+				"letter":"v",
+				"name":"Venus",
+				"image":"venus",
+				"description": "The planet second in order from the sun",
+				"phonetic": "/vee-nuh s/"
+			},
+			{
+				"letter":"v",
+				"name":"Voyager",
+				"image":"voyager",
+				"description": "One of a series of U.S. space probes that obtained scientific information while flying by the planets Jupiter, Saturn, and Uranus.",
+				"phonetic": "/voi-uh-jer/"
+			},
+			{
+				"letter":"w",
+				"name":"White Dwarf",
+				"image":"whitedwarf",
+				"description": "A star, approximately the size of the earth, that has undergone gravitational collapse and is in the final stage of evolution for low-mass stars.",
+				"phonetic": "/hwahyt/ /dwawrf/"
+			},
+			{
+				"letter":"x",
+				"name":"Xray",
+				"image":"xray",
+				"description": "Electromagnetic radiation emitted when matter is bombarded with fast electrons",
+				"phonetic": "/x ray/"
+			},
+			{
+				"letter":"y",
+				"name":"Yellow Dwarf",
+				"image":"sun",
+				"description": "A yellow dwarf is a star and is often referred to as a G-type main sequence star. A perfect example of a yellow dwarf would be the sun",
+				"phonetic": "/yel-oh/ /dwawrf/"
+			},
+			{
+				"letter":"z",
+				"name":"Zodiac",
+				"image":"zodiac",
+				"description": "An imaginary belt of the heavens which contains twelve constellations.",
+				"phonetic": "/zoh-dee-ak/"
+			}
+		]
+}
